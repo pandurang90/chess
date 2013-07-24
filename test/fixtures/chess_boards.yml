@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  first_id: 1
+  second_id: 1
+  winner_id: 1
+  result: MyString
+
+two:
+  first_id: 1
+  second_id: 1
+  winner_id: 1
+  result: MyString

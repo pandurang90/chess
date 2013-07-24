@@ -1,0 +1,6 @@
+.span2{width:70px;display: block;background-color: #6E6E6E; border: 1px solid;height: 65px;margin-left: 0px;border-color: #6E6E6E}
+.span2.even{background-color: white;}
+.chess_board{margin:0 0 0 80px;}
+.row{margin-left: 0px}
+.navbar-inner{padding-left : 200px;}
+.piece-image{height: 55px; padding: 5px 0 0 5px;}

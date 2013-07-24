@@ -1,0 +1,13 @@
+<div class="chess_board">
+  <% (1..8).each do |i| %>
+    <%= render :partial=>"odd_row",:locals=>{:row => i} %>
+    <%#= render :partial=>"even_row" %>
+  <%end%>
+</div>
+
+
+<script>
+  $(document).ready( function(){
+    // /$(".span2").html('<%=black_bishop%>');
+  });
+</script>
